@@ -2,10 +2,7 @@
 <h1 align="center">
   Hi, I'm Aditya 👋
   <br>
-  <p align="center">
-  <img src="https://raw.githubusercontent.com/Aditya-Narayan1/Aditya-Narayan1/main/SYNER%20FIX.png" alt="SynerFix Logo" width="200"/>
-</p>
-lines=AI+Engineer+in+the+Making;Future+Tech+Entrepreneur;Coding+My+Empire+One+Line+at+a+Time&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineer+in+the+Making;Future+Tech+Entrepreneur;Coding+My+Empire+One+Line+at+a+Time&center=true&width=500&height=45">
 </h1>
 
 <!-- SynerFix Logo -->
