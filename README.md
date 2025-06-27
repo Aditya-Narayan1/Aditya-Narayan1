@@ -5,8 +5,9 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineer+in+the+Making;Future+Tech+Entrepreneur;Coding+My+Empire+One+Line+at+a+Time&center=true&width=500&height=45">
 </h1>
 
+<!-- SynerFix Logo -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="150px">
+  <img src="https://raw.githubusercontent.com/Aditya-Narayan1/Aditya-Narayan1/main/SYNER%20FIX.png" alt="SynerFix Logo" width="200"/>
 </p>
 
 ---
@@ -26,7 +27,21 @@
 ### ⚙️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,nodejs,mongodb,git,github,vscode,linux,figma,ai,docker" />
+  <a href="https://isocpp.org" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+  <a href="https://reactjs.org" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+  <a href="https://github.com" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></a>
+  <a href="https://ubuntu.com" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
+  <a href="https://www.figma.com" target="_blank"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a>
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img src="https://skillicons.dev/icons?i=ai" alt="Adobe Illustrator" /></a>
+  <a href="https://www.docker.com" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
 </p>
 
 ---
@@ -39,8 +54,22 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Aditya-Narayan1&theme=react-dark&bg_color=00000000&hide_border=true" width="90%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya-Narayan1&theme=github_dark" width="90%" />
 </p>
+
+---
+
+### 🧰 Current Tech Timeline
+
+| Technology | Status       | Comments                     |
+|------------|--------------|------------------------------|
+| C++        | 🟡 Learning  | Foundations & syntax         |
+| Python     | ⚪️ Not Started | Will begin after mastering C++ |
+| HTML/CSS   | ⚪️ Not Started | Frontend skills to follow    |
+| JavaScript | ⚪️ Not Started | For dynamic UI + React       |
+| Git        | ⚪️ Not Started | Version control coming soon  |
+
+🟢 = Mastered  🟡 = Learning  ⚪️ = Not Started
 
 ---
 
@@ -63,6 +92,13 @@
 
 ---
 
+### 🔐 Privacy & Professionalism
+
+I value professionalism and your digital safety. Any support or services offered through **SynerFix** are handled with strict privacy, clean tools, and zero data compromise.  
+Client trust is non-negotiable — your systems, data, and digital presence are treated with the highest respect.
+
+---
+
 ### ✨ Quote of the Repository
 
 > _"Let the code you write echo louder than the words you say. For one day, kingdoms will rise from these lines."_  
@@ -73,8 +109,8 @@
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aditya-narayan1"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:gamingwitheddy99@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/aditya-narayan-6654b82a5/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:aditya.narayan0511@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/Aditya-Narayan1"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
@@ -83,4 +119,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer"/>
 </p>
-
